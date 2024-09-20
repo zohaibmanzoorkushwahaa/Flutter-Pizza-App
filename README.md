@@ -42,9 +42,9 @@ This app follows **Clean Architecture** principles, organized into layers:
    ```
 
 ## 📱 Screenshots:
-| Home Screen | Pizza Detail Screen |
-| ----------- | ---------------! ---- |
-| ![Home]([Simulator Screenshot - iPhone 15 Pro Max - 2024-09-20 at 11 27 05](https://github.com/user-attachments/assets/08e3beec-ed61-4d51-af14-6ae8994b4568)) | ![Detail](link_to_detail_screenshot) |
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-09-20 at 11 27 19](https://github.com/user-attachments/assets/9ef5dad4-0710-4518-b145-7c203b334cc9)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-09-20 at 11 27 05](https://github.com/user-attachments/assets/9127c073-2490-4d2e-9e18-8945cafb8c94)
 
 ## 🤝 Contribution:
 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest features.

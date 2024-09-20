@@ -43,8 +43,9 @@ This app follows **Clean Architecture** principles, organized into layers:
 
 ## 📱 Screenshots:
 
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-09-20 at 11 27 19](https://github.com/user-attachments/assets/9ef5dad4-0710-4518-b145-7c203b334cc9)
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-09-20 at 11 27 05](https://github.com/user-attachments/assets/9127c073-2490-4d2e-9e18-8945cafb8c94)
+<img src="https://github.com/user-attachments/assets/9ef5dad4-0710-4518-b145-7c203b334cc9" alt="Simulator Screenshot - iPhone 15 Pro Max" width="400" />
+
+<img src="https://github.com/user-attachments/assets/9127c073-2490-4d2e-9e18-8945cafb8c94" alt="Simulator Screenshot - iPhone 15 Pro Max" width="400" />
 
 ## 🤝 Contribution:
 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest features.

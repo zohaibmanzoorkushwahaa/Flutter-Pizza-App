@@ -43,13 +43,8 @@ This app follows **Clean Architecture** principles, organized into layers:
 
 ## 📱 Screenshots:
 
-Home Screen
 <img src="https://github.com/user-attachments/assets/9127c073-2490-4d2e-9e18-8945cafb8c94" alt="Simulator Screenshot - iPhone 15 Pro Max" width="400" />
-
-Detail screen
 <img src="https://github.com/user-attachments/assets/9ef5dad4-0710-4518-b145-7c203b334cc9" alt="Simulator Screenshot - iPhone 15 Pro Max" width="400" />
-
-
 
 ## 🤝 Contribution:
 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest features.
